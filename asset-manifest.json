@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markdown-previewer-fcc/static/css/main.545e40a5.css",
+    "main.js": "/markdown-previewer-fcc/static/js/main.1ac61bc2.js",
+    "index.html": "/markdown-previewer-fcc/index.html",
+    "main.545e40a5.css.map": "/markdown-previewer-fcc/static/css/main.545e40a5.css.map",
+    "main.1ac61bc2.js.map": "/markdown-previewer-fcc/static/js/main.1ac61bc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545e40a5.css",
+    "static/js/main.1ac61bc2.js"
+  ]
+}
