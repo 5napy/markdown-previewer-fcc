@@ -51,6 +51,11 @@ You can also emphasize text — **this is bolded text**.`);
 
   return (
     <div className="container">
+    <header className="header">
+        <h1>Markdown Previewer</h1>
+        <h3>By Gustavo B.</h3>
+      </header>
+      <div className="pane-container">
       <div className="pane">
         <h2 className="editor-title">Editor</h2>
         <textarea
@@ -67,6 +72,7 @@ You can also emphasize text — **this is bolded text**.`);
           className="preview"
           dangerouslySetInnerHTML={{ __html: marked.parse(text) }}
         />
+      </div>
       </div>
     </div>
   );
